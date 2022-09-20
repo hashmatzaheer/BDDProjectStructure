@@ -1,0 +1,186 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 64343300,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user is on Retail home",
+            "match": {
+              "location": "step.definations.HomeStepDef.user_is_on_retail_home()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 42886300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user click on MyAccount",
+            "match": {
+              "location": "step.definations.HomeStepDef.user_click_on_my_account()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-09-13T15:48:13.621Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2794305100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step.definations.Initialzer.beforeHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 22,
+        "name": "Register to Retail Website",
+        "description": "",
+        "id": "tek-school-retail-website;register-to-retail-website",
+        "after": [
+          {
+            "result": {
+              "duration": 2495205500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "step.definations.Initialzer.afterHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 968777700,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "user click on Register option",
+            "match": {
+              "location": "step.definations.RetailStepDef.user_click_on_register_option()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 390555200,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "user fill the register form with below information",
+            "match": {
+              "location": "step.definations.RetailStepDef.user_fill_the_register_form_with_below_information(io.cucumber.datatable.DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "firstName",
+                  "lastName",
+                  "email",
+                  "telephone",
+                  "password",
+                  "PasswordConfirm",
+                  "subscribe"
+                ]
+              },
+              {
+                "cells": [
+                  "mustafa",
+                  "zaheer",
+                  "mus11@tek.com",
+                  "2021010007",
+                  "mus123",
+                  "mus123",
+                  "Yes"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 60959200,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "user accept privacyPolicy",
+            "match": {
+              "location": "step.definations.RetailStepDef.user_accept_privacy_policy()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 695399900,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "user click on Continue Button",
+            "match": {
+              "location": "step.definations.RetailStepDef.user_click_on_continue_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 5155001100,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "user should see a successfull message \"Your Account Has Been Created!\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Your Account Has Been Created!\"",
+                  "offset": 38
+                }
+              ],
+              "location": "step.definations.RetailStepDef.user_should_see_a_successfull_message(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@CompleteTest"
+          },
+          {
+            "name": "@register"
+          }
+        ]
+      }
+    ],
+    "name": "Tek School Retail Website",
+    "description": "",
+    "id": "tek-school-retail-website",
+    "keyword": "Feature",
+    "uri": "classpath:feature/Retail.feature",
+    "tags": [
+      {
+        "name": "@CompleteTest",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]

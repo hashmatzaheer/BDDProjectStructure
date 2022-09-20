@@ -1,0 +1,210 @@
+2022-09-08 11:01:34,086 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to Retail Website started
+2022-09-08 11:01:41,965 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to Retail WebsiteUNDEFINED
+2022-09-08 12:06:22,017 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to Retail Website started
+2022-09-08 12:06:25,039 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to Retail WebsiteUNDEFINED
+2022-09-08 12:22:14,556 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to Retail Website started
+2022-09-08 12:22:17,548 - .\src\test\resources\input\log4j.properties -INFO - user is on Home Page
+2022-09-08 12:22:17,596 - .\src\test\resources\input\log4j.properties -INFO - user clicked on MyAccount
+2022-09-08 12:22:18,031 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login
+2022-09-08 12:22:18,116 - .\src\test\resources\input\log4j.properties -INFO - user enter the username zaheer@test.com
+2022-09-08 12:22:18,173 - .\src\test\resources\input\log4j.properties -INFO - user entered the password test123
+2022-09-08 12:22:18,680 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
+2022-09-08 12:22:18,716 - .\src\test\resources\input\log4j.properties -INFO - user should be in MyAccount Page
+2022-09-08 12:22:18,827 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to Retail WebsitePASSED
+2022-09-08 15:07:45,870 - .\src\test\resources\input\log4j.properties -INFO - Scenario  started
+2022-09-08 15:07:49,430 - .\src\test\resources\input\log4j.properties -INFO - user is on Home Page
+2022-09-08 15:07:49,482 - .\src\test\resources\input\log4j.properties -INFO - user clicked on MyAccount
+2022-09-08 15:07:49,985 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login
+2022-09-08 15:07:50,153 - .\src\test\resources\input\log4j.properties -INFO - user enter the username shark@tekschool.us
+2022-09-08 15:07:50,232 - .\src\test\resources\input\log4j.properties -INFO - user entered the password 123456
+2022-09-08 15:07:50,799 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
+2022-09-08 15:08:23,357 - .\src\test\resources\input\log4j.properties -INFO - Scenario FAILED
+2022-09-08 15:08:23,381 - .\src\test\resources\input\log4j.properties -INFO - Scenario  started
+2022-09-08 15:08:25,957 - .\src\test\resources\input\log4j.properties -INFO - user is on Home Page
+2022-09-08 15:08:26,005 - .\src\test\resources\input\log4j.properties -INFO - user clicked on MyAccount
+2022-09-08 15:08:26,536 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login
+2022-09-08 15:08:26,618 - .\src\test\resources\input\log4j.properties -INFO - user enter the username tigers@tekschool.us
+2022-09-08 15:08:26,678 - .\src\test\resources\input\log4j.properties -INFO - user entered the password 987654321
+2022-09-08 15:08:27,179 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
+2022-09-08 15:08:38,608 - .\src\test\resources\input\log4j.properties -INFO - Scenario  started
+2022-09-08 15:08:41,317 - .\src\test\resources\input\log4j.properties -INFO - user is on Home Page
+2022-09-08 15:08:41,368 - .\src\test\resources\input\log4j.properties -INFO - user clicked on MyAccount
+2022-09-08 15:08:42,047 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login
+2022-09-08 15:08:42,127 - .\src\test\resources\input\log4j.properties -INFO - user enter the username titans@tekschool.us
+2022-09-08 15:08:42,184 - .\src\test\resources\input\log4j.properties -INFO - user entered the password 147852369
+2022-09-08 15:08:42,868 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
+2022-09-08 15:08:42,906 - .\src\test\resources\input\log4j.properties -INFO - user should be in MyAccount Page
+2022-09-08 15:08:43,051 - .\src\test\resources\input\log4j.properties -INFO - Scenario PASSED
+2022-09-08 15:11:47,333 - .\src\test\resources\input\log4j.properties -INFO - Scenario  started
+2022-09-08 15:11:50,699 - .\src\test\resources\input\log4j.properties -INFO - user is on Home Page
+2022-09-08 15:11:50,746 - .\src\test\resources\input\log4j.properties -INFO - user clicked on MyAccount
+2022-09-08 15:11:51,190 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login
+2022-09-08 15:11:51,302 - .\src\test\resources\input\log4j.properties -INFO - user enter the username zaheer@test.com
+2022-09-08 15:11:51,368 - .\src\test\resources\input\log4j.properties -INFO - user entered the password test123
+2022-09-08 15:11:51,988 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
+2022-09-08 15:11:52,025 - .\src\test\resources\input\log4j.properties -INFO - user should be in MyAccount Page
+2022-09-08 15:11:52,139 - .\src\test\resources\input\log4j.properties -INFO - Scenario PASSED
+2022-09-08 15:11:52,148 - .\src\test\resources\input\log4j.properties -INFO - Scenario  started
+2022-09-08 15:11:54,753 - .\src\test\resources\input\log4j.properties -INFO - user is on Home Page
+2022-09-08 15:11:54,800 - .\src\test\resources\input\log4j.properties -INFO - user clicked on MyAccount
+2022-09-08 15:11:55,237 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login
+2022-09-08 15:11:55,321 - .\src\test\resources\input\log4j.properties -INFO - user enter the username test1@test
+2022-09-08 15:11:55,385 - .\src\test\resources\input\log4j.properties -INFO - user entered the password test1
+2022-09-08 15:11:55,903 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
+2022-09-08 15:12:11,129 - .\src\test\resources\input\log4j.properties -INFO - Scenario  started
+2022-09-08 15:12:14,610 - .\src\test\resources\input\log4j.properties -INFO - user is on Home Page
+2022-09-08 15:12:14,661 - .\src\test\resources\input\log4j.properties -INFO - user clicked on MyAccount
+2022-09-08 15:12:15,138 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login
+2022-09-08 15:12:15,224 - .\src\test\resources\input\log4j.properties -INFO - user enter the username zaheer@test.com
+2022-09-08 15:12:15,285 - .\src\test\resources\input\log4j.properties -INFO - user entered the password test123
+2022-09-08 15:12:15,989 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
+2022-09-08 15:12:16,024 - .\src\test\resources\input\log4j.properties -INFO - user should be in MyAccount Page
+2022-09-08 15:12:16,132 - .\src\test\resources\input\log4j.properties -INFO - Scenario PASSED
+2022-09-08 15:12:16,142 - .\src\test\resources\input\log4j.properties -INFO - Scenario  started
+2022-09-08 15:12:18,825 - .\src\test\resources\input\log4j.properties -INFO - user is on Home Page
+2022-09-08 15:12:18,876 - .\src\test\resources\input\log4j.properties -INFO - user clicked on MyAccount
+2022-09-08 15:12:19,409 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login
+2022-09-08 15:12:19,490 - .\src\test\resources\input\log4j.properties -INFO - user enter the username test1@test.com
+2022-09-08 15:12:19,551 - .\src\test\resources\input\log4j.properties -INFO - user entered the password test1
+2022-09-08 15:12:20,105 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
+2022-09-08 15:12:20,139 - .\src\test\resources\input\log4j.properties -INFO - user should be in MyAccount Page
+2022-09-08 15:12:20,270 - .\src\test\resources\input\log4j.properties -INFO - Scenario PASSED
+2022-09-08 15:12:28,466 - .\src\test\resources\input\log4j.properties -INFO - Scenario FAILED
+2022-09-08 15:57:30,851 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register to Retail Website started
+2022-09-08 15:57:34,250 - .\src\test\resources\input\log4j.properties -INFO - user is on Home Page
+2022-09-08 15:57:34,310 - .\src\test\resources\input\log4j.properties -INFO - user clicked on MyAccount
+2022-09-08 15:57:34,462 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register to Retail WebsiteUNDEFINED
+2022-09-08 15:59:00,806 - .\src\test\resources\input\log4j.properties -INFO - Scenario login to Retail webiste with multiple credentials started
+2022-09-08 15:59:04,034 - .\src\test\resources\input\log4j.properties -INFO - user is on Home Page
+2022-09-08 15:59:04,084 - .\src\test\resources\input\log4j.properties -INFO - user clicked on MyAccount
+2022-09-08 15:59:04,577 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login
+2022-09-08 15:59:04,663 - .\src\test\resources\input\log4j.properties -INFO - user enter the username zaheer@test.com
+2022-09-08 15:59:04,750 - .\src\test\resources\input\log4j.properties -INFO - user entered the password test123
+2022-09-08 15:59:05,336 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
+2022-09-08 15:59:05,381 - .\src\test\resources\input\log4j.properties -INFO - user should be in MyAccount Page
+2022-09-08 15:59:05,538 - .\src\test\resources\input\log4j.properties -INFO - Scenario login to Retail webiste with multiple credentialsPASSED
+2022-09-08 15:59:05,546 - .\src\test\resources\input\log4j.properties -INFO - Scenario login to Retail webiste with multiple credentials started
+2022-09-08 15:59:08,357 - .\src\test\resources\input\log4j.properties -INFO - user is on Home Page
+2022-09-08 15:59:08,417 - .\src\test\resources\input\log4j.properties -INFO - user clicked on MyAccount
+2022-09-08 15:59:08,971 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login
+2022-09-08 15:59:09,055 - .\src\test\resources\input\log4j.properties -INFO - user enter the username test1@test.com
+2022-09-08 15:59:09,120 - .\src\test\resources\input\log4j.properties -INFO - user entered the password test1
+2022-09-08 15:59:09,696 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
+2022-09-08 15:59:09,732 - .\src\test\resources\input\log4j.properties -INFO - user should be in MyAccount Page
+2022-09-08 15:59:09,852 - .\src\test\resources\input\log4j.properties -INFO - Scenario login to Retail webiste with multiple credentialsPASSED
+2022-09-08 15:59:09,908 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register to Retail Website started
+2022-09-08 15:59:12,884 - .\src\test\resources\input\log4j.properties -INFO - user is on Home Page
+2022-09-08 15:59:12,943 - .\src\test\resources\input\log4j.properties -INFO - user clicked on MyAccount
+2022-09-08 15:59:13,062 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register to Retail WebsiteUNDEFINED
+2022-09-12 09:29:59,072 - .\src\test\resources\input\log4j.properties -INFO - Scenario login to Retail webiste with multiple credentials started
+2022-09-12 09:30:11,998 - .\src\test\resources\input\log4j.properties -INFO - user is on Home Page
+2022-09-12 09:30:12,101 - .\src\test\resources\input\log4j.properties -INFO - user clicked on MyAccount
+2022-09-12 09:30:12,662 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login
+2022-09-12 09:30:12,750 - .\src\test\resources\input\log4j.properties -INFO - user enter the username zaheer@test.com
+2022-09-12 09:30:12,813 - .\src\test\resources\input\log4j.properties -INFO - user entered the password test123
+2022-09-12 09:30:14,166 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
+2022-09-12 09:30:14,208 - .\src\test\resources\input\log4j.properties -INFO - user should be in MyAccount Page
+2022-09-12 09:30:16,693 - .\src\test\resources\input\log4j.properties -INFO - Scenario login to Retail webiste with multiple credentialsPASSED
+2022-09-12 09:30:16,712 - .\src\test\resources\input\log4j.properties -INFO - Scenario login to Retail webiste with multiple credentials started
+2022-09-12 09:30:44,801 - .\src\test\resources\input\log4j.properties -INFO - user is on Home Page
+2022-09-12 09:30:44,911 - .\src\test\resources\input\log4j.properties -INFO - user clicked on MyAccount
+2022-09-12 09:30:48,289 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login
+2022-09-12 09:30:48,376 - .\src\test\resources\input\log4j.properties -INFO - user enter the username test1@test.com
+2022-09-12 09:30:48,445 - .\src\test\resources\input\log4j.properties -INFO - user entered the password test1
+2022-09-12 09:30:51,101 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
+2022-09-12 09:30:51,149 - .\src\test\resources\input\log4j.properties -INFO - user should be in MyAccount Page
+2022-09-12 09:30:51,290 - .\src\test\resources\input\log4j.properties -INFO - Scenario login to Retail webiste with multiple credentialsPASSED
+2022-09-12 09:30:51,300 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register to Retail Website started
+2022-09-12 09:31:04,112 - .\src\test\resources\input\log4j.properties -INFO - user is on Home Page
+2022-09-12 09:31:04,206 - .\src\test\resources\input\log4j.properties -INFO - user clicked on MyAccount
+2022-09-12 09:31:08,659 - .\src\test\resources\input\log4j.properties -INFO - user clicked on register option
+2022-09-12 09:33:41,867 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register to Retail Website started
+2022-09-12 09:33:49,028 - .\src\test\resources\input\log4j.properties -INFO - user is on Home Page
+2022-09-12 09:33:49,140 - .\src\test\resources\input\log4j.properties -INFO - user clicked on MyAccount
+2022-09-12 09:33:50,404 - .\src\test\resources\input\log4j.properties -INFO - user clicked on register option
+2022-09-12 09:39:34,633 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register to Retail Website started
+2022-09-12 09:39:41,319 - .\src\test\resources\input\log4j.properties -INFO - user is on Home Page
+2022-09-12 09:39:41,379 - .\src\test\resources\input\log4j.properties -INFO - user clicked on MyAccount
+2022-09-12 09:39:42,772 - .\src\test\resources\input\log4j.properties -INFO - user clicked on register option
+2022-09-12 09:39:43,310 - .\src\test\resources\input\log4j.properties -INFO - user entered Register Page information
+2022-09-12 09:39:43,372 - .\src\test\resources\input\log4j.properties -INFO - user clicked on Privacy Policy
+2022-09-12 09:39:45,309 - .\src\test\resources\input\log4j.properties -INFO - user clicked on Continue button
+2022-09-12 09:39:45,359 - .\src\test\resources\input\log4j.properties -INFO - Account Has Been created successfully
+2022-09-12 09:39:52,912 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register to Retail WebsitePASSED
+2022-09-13 10:46:34,172 - .\src\test\resources\input\log4j.properties -INFO - Scenario login to Retail webiste with multiple credentials started
+2022-09-13 10:46:38,298 - .\src\test\resources\input\log4j.properties -INFO - user is on Home Page
+2022-09-13 10:46:38,345 - .\src\test\resources\input\log4j.properties -INFO - user clicked on MyAccount
+2022-09-13 10:46:38,723 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login
+2022-09-13 10:46:38,803 - .\src\test\resources\input\log4j.properties -INFO - user enter the username zaheer@test.com
+2022-09-13 10:46:38,856 - .\src\test\resources\input\log4j.properties -INFO - user entered the password test123
+2022-09-13 10:46:39,446 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
+2022-09-13 10:46:39,517 - .\src\test\resources\input\log4j.properties -INFO - user should be in MyAccount Page
+2022-09-13 10:46:39,648 - .\src\test\resources\input\log4j.properties -INFO - Scenario login to Retail webiste with multiple credentialsPASSED
+2022-09-13 10:46:39,667 - .\src\test\resources\input\log4j.properties -INFO - Scenario login to Retail webiste with multiple credentials started
+2022-09-13 10:46:42,108 - .\src\test\resources\input\log4j.properties -INFO - user is on Home Page
+2022-09-13 10:46:42,153 - .\src\test\resources\input\log4j.properties -INFO - user clicked on MyAccount
+2022-09-13 10:46:42,588 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login
+2022-09-13 10:46:42,666 - .\src\test\resources\input\log4j.properties -INFO - user enter the username test1@test.com
+2022-09-13 10:46:42,716 - .\src\test\resources\input\log4j.properties -INFO - user entered the password test1
+2022-09-13 10:46:43,228 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
+2022-09-13 10:46:43,260 - .\src\test\resources\input\log4j.properties -INFO - user should be in MyAccount Page
+2022-09-13 10:46:43,367 - .\src\test\resources\input\log4j.properties -INFO - Scenario login to Retail webiste with multiple credentialsPASSED
+2022-09-13 10:46:43,382 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register to Retail Website started
+2022-09-13 10:46:45,830 - .\src\test\resources\input\log4j.properties -INFO - user is on Home Page
+2022-09-13 10:46:45,875 - .\src\test\resources\input\log4j.properties -INFO - user clicked on MyAccount
+2022-09-13 10:46:46,811 - .\src\test\resources\input\log4j.properties -INFO - user clicked on register option
+2022-09-13 10:46:47,163 - .\src\test\resources\input\log4j.properties -INFO - user entered Register Page information
+2022-09-13 10:46:47,203 - .\src\test\resources\input\log4j.properties -INFO - user clicked on Privacy Policy
+2022-09-13 10:46:47,873 - .\src\test\resources\input\log4j.properties -INFO - user clicked on Continue button
+2022-09-13 10:46:47,900 - .\src\test\resources\input\log4j.properties -INFO - Account Has Been created successfully
+2022-09-13 10:46:55,374 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register to Retail WebsitePASSED
+2022-09-13 10:52:07,482 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to Retail Website started
+2022-09-13 10:52:10,866 - .\src\test\resources\input\log4j.properties -INFO - user is on Home Page
+2022-09-13 10:52:10,909 - .\src\test\resources\input\log4j.properties -INFO - user clicked on MyAccount
+2022-09-13 10:52:11,259 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login
+2022-09-13 10:52:11,359 - .\src\test\resources\input\log4j.properties -INFO - user enter the username zaheer@test.com
+2022-09-13 10:52:11,420 - .\src\test\resources\input\log4j.properties -INFO - user entered the password test123
+2022-09-13 10:52:11,952 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
+2022-09-13 10:52:11,985 - .\src\test\resources\input\log4j.properties -INFO - user should be in MyAccount Page
+2022-09-13 10:52:14,474 - .\src\test\resources\input\log4j.properties -INFO - Scenario Login to Retail WebsitePASSED
+2022-09-13 10:52:14,491 - .\src\test\resources\input\log4j.properties -INFO - Scenario login to Retail webiste with multiple credentials started
+2022-09-13 10:52:17,217 - .\src\test\resources\input\log4j.properties -INFO - user is on Home Page
+2022-09-13 10:52:17,259 - .\src\test\resources\input\log4j.properties -INFO - user clicked on MyAccount
+2022-09-13 10:52:17,602 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login
+2022-09-13 10:52:17,684 - .\src\test\resources\input\log4j.properties -INFO - user enter the username zaheer@test.com
+2022-09-13 10:52:17,736 - .\src\test\resources\input\log4j.properties -INFO - user entered the password test123
+2022-09-13 10:52:18,226 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
+2022-09-13 10:52:18,262 - .\src\test\resources\input\log4j.properties -INFO - user should be in MyAccount Page
+2022-09-13 10:52:18,370 - .\src\test\resources\input\log4j.properties -INFO - Scenario login to Retail webiste with multiple credentialsPASSED
+2022-09-13 10:52:18,380 - .\src\test\resources\input\log4j.properties -INFO - Scenario login to Retail webiste with multiple credentials started
+2022-09-13 10:52:21,174 - .\src\test\resources\input\log4j.properties -INFO - user is on Home Page
+2022-09-13 10:52:21,220 - .\src\test\resources\input\log4j.properties -INFO - user clicked on MyAccount
+2022-09-13 10:52:21,600 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login
+2022-09-13 10:52:21,683 - .\src\test\resources\input\log4j.properties -INFO - user enter the username test1@test.com
+2022-09-13 10:52:21,734 - .\src\test\resources\input\log4j.properties -INFO - user entered the password test1
+2022-09-13 10:52:22,212 - .\src\test\resources\input\log4j.properties -INFO - user clicked on login button
+2022-09-13 10:52:22,246 - .\src\test\resources\input\log4j.properties -INFO - user should be in MyAccount Page
+2022-09-13 10:52:22,367 - .\src\test\resources\input\log4j.properties -INFO - Scenario login to Retail webiste with multiple credentialsPASSED
+2022-09-13 10:52:22,384 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register to Retail Website started
+2022-09-13 10:52:25,181 - .\src\test\resources\input\log4j.properties -INFO - user is on Home Page
+2022-09-13 10:52:25,225 - .\src\test\resources\input\log4j.properties -INFO - user clicked on MyAccount
+2022-09-13 10:52:26,242 - .\src\test\resources\input\log4j.properties -INFO - user clicked on register option
+2022-09-13 10:52:26,636 - .\src\test\resources\input\log4j.properties -INFO - user entered Register Page information
+2022-09-13 10:52:26,679 - .\src\test\resources\input\log4j.properties -INFO - user clicked on Privacy Policy
+2022-09-13 10:52:27,131 - .\src\test\resources\input\log4j.properties -INFO - user clicked on Continue button
+2022-09-13 11:47:33,745 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register to Retail Website started
+2022-09-13 11:47:37,022 - .\src\test\resources\input\log4j.properties -INFO - user is on Home Page
+2022-09-13 11:47:37,065 - .\src\test\resources\input\log4j.properties -INFO - user clicked on MyAccount
+2022-09-13 11:47:37,995 - .\src\test\resources\input\log4j.properties -INFO - user clicked on register option
+2022-09-13 11:47:38,345 - .\src\test\resources\input\log4j.properties -INFO - user entered Register Page information
+2022-09-13 11:47:38,382 - .\src\test\resources\input\log4j.properties -INFO - user clicked on Privacy Policy
+2022-09-13 11:47:38,878 - .\src\test\resources\input\log4j.properties -INFO - user clicked on Continue button
+2022-09-13 11:48:13,721 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register to Retail Website started
+2022-09-13 11:48:16,521 - .\src\test\resources\input\log4j.properties -INFO - user is on Home Page
+2022-09-13 11:48:16,565 - .\src\test\resources\input\log4j.properties -INFO - user clicked on MyAccount
+2022-09-13 11:48:17,534 - .\src\test\resources\input\log4j.properties -INFO - user clicked on register option
+2022-09-13 11:48:17,927 - .\src\test\resources\input\log4j.properties -INFO - user entered Register Page information
+2022-09-13 11:48:17,987 - .\src\test\resources\input\log4j.properties -INFO - user clicked on Privacy Policy
+2022-09-13 11:48:18,682 - .\src\test\resources\input\log4j.properties -INFO - user clicked on Continue button
+2022-09-13 11:48:18,708 - .\src\test\resources\input\log4j.properties -INFO - Account Has Been created successfully
+2022-09-13 11:48:26,333 - .\src\test\resources\input\log4j.properties -INFO - Scenario Register to Retail WebsitePASSED
